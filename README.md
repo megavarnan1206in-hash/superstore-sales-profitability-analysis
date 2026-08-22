@@ -49,5 +49,5 @@ Based on the underlying dataset, several strategic observations were surfaced:
 - [ ] Integrate a live look-up API for regional shipping mode optimizations.
 
 ## 📌 Author
-- **Your Name** - [www.linkedin.com/in/mega-varnan-357a832a0]
+- **Megavarnan** - [www.linkedin.com/in/mega-varnan-357a832a0]
 
